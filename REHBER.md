@@ -44,4 +44,4 @@
    - Sağ üst köşede bulunan "Pull Request" butonu ile yeni bir PR oluşturun.
    - Değişikliklerinizi açıklayan bir başlık ve açıklama ekleyin.
 
-Bu basit adımları takip ederek, projeye farklı dillerde katkıda bulunabilirsiniz. Daha fazla bilgi için [CONTRIBUTING.md](CONTRIBUTING.md) dosyasına göz atabilirsiniz.
+FOR EN : [CONTRIBUTING.md](CONTRIBUTING.md) .
