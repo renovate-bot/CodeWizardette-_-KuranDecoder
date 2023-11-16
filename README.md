@@ -1,4 +1,4 @@
 # KuranDecoder
-Kuran-ı Kerim Decoder : Kuran-ı Kerim'i çeşitli yöntemlerle analiz etmeyi amaçlayan bir Python projesidir.
-Proje kullanımıyla ilgili detaylı bilgiler için lütfen [Kullanım Kılavuzu](REHBER.md)
 
+## Kuran-ı Kerim Decoder: A Python project aimed at analyzing the Holy Quran through various methods. 
+For detailed information about project usage, please refer to the Usage Guide.(CONTRIBUTING.md)
